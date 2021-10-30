@@ -1,12 +1,14 @@
 #include<stdio.h>
 #include<iostream>
+#include<cmath>
 using namespace std;
  
  bool prime(int num)
  {
+  int a = sqrt(num);
   if(num ==1)
     return false;
-  for(int i=2;i<=num/2;i++)
+  for(int i=2;i<=a;i++)
   {
     if(num%i==0)
       return false;
