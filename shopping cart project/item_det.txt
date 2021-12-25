@@ -1,0 +1,6 @@
+1212	Shirt	2500.50	10
+1232	Jeans	3500.50	20
+12283	Shirt & Jeans	3400.0	5	
+112	Saree	220	100
+113	Shoes	499	10
+114	Shoes Puma	501	5
